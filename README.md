@@ -1,1 +1,1 @@
-# k8s-templates
+# Collection of different k8s resources.
